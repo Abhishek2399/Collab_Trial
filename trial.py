@@ -1,1 +1,6 @@
-print("hey this is abhi")
+def master():
+    print("This is master")
+    print("Made by Abhi")
+
+master()
+
