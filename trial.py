@@ -12,3 +12,7 @@ def feature2(a, b)
     return a*b
 
 
+def feature3(a,b):
+    return a**b
+
+
